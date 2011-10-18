@@ -1,5 +1,12 @@
 This is a repository for transit data for South Africa.
 
+I currently focus on GTFS, but other formats are welcome as well.
+
+Do not submit information directly copied that might have copyright problems. Converted data should be OK, but consult a lawyer if in doubt.
+
 Please let me know if you have some more data available. (Pull requests, issues, etc.)
 
 Currently this is in its initial stages.
+
+The structure is as follows:
+province/agency

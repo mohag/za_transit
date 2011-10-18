@@ -9,4 +9,7 @@ cd ..
 feedvalidator.py -n "$filename"
 kmlwriter.py "$filename"
 ./makeNiceKml.py # Still work in progress
-zip -u "$filename" -xi README CODE-LICENSE *.py *.sh validation-results.html "$kmlfilename"
+mv "$kmlfilename" "$kmlfilename.bak"
+mv test.kml "$kmlfilename"
+# TODO: Update version in feed
+zip -u "$filename" -xi README CODE-LICENSE *.py *.sh validation-results.html feed_info.txt "$kmlfilename"

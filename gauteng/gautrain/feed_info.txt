@@ -1,0 +1,2 @@
+feed_publisher_name,feed_publisher_url,feed_version,feed_lang,feed_timezone,feed_valid_from,feed_valid_until
+Gert van den Berg,http://github.com/mohag/za_transit/,20111018,en,Africa/Johannesburg,20110803,20201231
