@@ -1,0 +1,27 @@
+generic_service_name,route_long_name,route_id,route_type,route_text_color,agency_id,route_color,route_url,route_desc,route_short_name
+Gautrain Bus, Sandton – Rivonia,S3,3,FFFFFF,za_gautrain,CF20B8,,Runs from Sandton station to Rivonia through Morningside,S3
+Gautrain Bus, Sandton – Gallo Manor,S2,3,FFFFFF,za_gautrain,57084D,,Runs from Sandton station to Gallo Manor though Wendywood,S2
+Gautrain Bus, Sandton – Fourways,S5,3,FFFFFF,za_gautrain,D11C16,,Runs from Sandton station to Fourways through Bryanston,S5
+Gautrain Bus, Sandton – Randburg,S4,3,FFFFFF,za_gautrain,F4154F,,Runs from Sandton station through Randburg,S4
+Gautrain Bus, Midrand - Randjespark,M1,3,FFFFFF,za_gautrain,98053A,,Runs from Midrand station through Randjespark,M1
+Gautrain Bus, Midrand - Sunninghill,M3,3,FFFFFF,za_gautrain,CF20B8,,Runs from Midrand station to Sunninghill through Halfway House,M3
+Gautrain Bus, Midrand - Noordwyk,M2,3,FFFFFF,za_gautrain,57084C,,Runs from Midrand station to Noordwyk past Vodaworld and Midridge Park,M2
+Gautrain Bus, Rhodesfield,RF1,3,FFFFFF,za_gautrain,98053B,,Runs from Rhodesfield station through Kempton Park to Aston Manor,RF1
+Gautrain Bus, Rosebank - Park,RB5,3,FFFFFF,za_gautrain,D11C16,,Temporary bus from Rosebank to Park Station,RB5
+Gautrain Bus, Rosebank - Craighall,RB4,3,FFFFFF,za_gautrain,F41551,,Runs from Rosebank Station to Hyde Park,RB4
+Gautrain Bus, Rosebank - Illovo,RB3,3,FFFFFF,za_gautrain,CF20B8,,Runs from Rosebank Station to Illovo,RB3
+Gautrain Bus, Rosebank - Melrose Arch,RB2,3,FFFFFF,za_gautrain,57084C,,Runs from Rosebank Station to Melrose Arch,RB2
+Gautrain Bus, Rosebank - Highlands North,RB1,3,FFFFFF,za_gautrain,98053A,,Runs from Rosbank Station to Highlands North,RB1
+Gautrain,East-West line,gautrain_ew,2,,za_gautrain,,,East-West route running between OR Tambo Station and Sandton Station,E-W
+Gautrain Bus, Centurion – Wierda Park,C3,3,FFFFFF,za_gautrain,CF20B8,,Runs from Centurion station to Wierda Park,C3
+Gautrain Bus, Centurion – Rooihuiskraal,C2,3,FFFFFF,za_gautrain,57084C,,Runs from Centurion station to Rooihuiskraal and Amberfield,C2
+Gautrain Bus, Centurion – Highveld Techno Park,C1,3,FFFFFF,za_gautrain,98053B,,Runs from Centurion station to Techno Park and Eco Park Estate,C1
+Gautrain Bus, Centurion – Southdowns,C4,3,FFFFFF,za_gautrain,F41551,,Runs from Centurion station through Doringkloof to Southdowns,C4
+Gautrain Bus, Pretoria - Cbd Inner,P2,3,FFFFFF,za_gautrain,57084C,,Runs from Pretoria Station through CBD with Bosman and Andries Street,P2
+Gautrain Bus, Pretoria - Cbd Outer,P1,3,FFFFFF,za_gautrain,98053A,,"Runs from Pretoria Station through CBD with Visagie, Streuben and Prinsloo Street",P1
+Gautrain,North-South line,gautrain_ns,2,,za_gautrain,,,North-South Gautrain route. Runs between Hatfield Station and Park Station,N-S
+Gautrain Bus, Hatfield - Lynnwood,H2,3,FFFFFF,za_gautrain,57084C,,Runs from Hatfield Station to Lynnwood Manor,H2
+Gautrain Bus, Hatfield - Arcadia,H3,3,FFFFFF,za_gautrain,CF20B8,,Runs from Hatfield Station to Arcadia,H3
+Gautrain Bus, Hatfield - Brooklyn,H1,3,FFFFFF,za_gautrain,98053B,,Runs from Hatfield Station to Nieuw Muckleneuk and Waterkloof,H1
+Gautrain Bus, Hatfield - Waverley,H4,3,FFFFFF,za_gautrain,F41551,,Runs from Hatfield Station to Waverley,H4
+Gautrain Bus, Hatfield - Menlyn,H5,3,FFFFFF,za_gautrain,D11C16,,Runs from Hatfield Station to Menlyn,H5
